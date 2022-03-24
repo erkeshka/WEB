@@ -1,0 +1,44 @@
+.inp{
+	
+	position: absolute;
+  	left: 50%;
+  	top: 50%;
+  	margin-left: -100px;
+  	margin-top: -50px;
+  	width: 200px;
+  	height: 30px;
+  	border-radius: 10px;
+  	font-family: sans-serif;
+  	font-size: 16px;
+}
+.but{
+	position: absolute;
+  	left: 50%;
+  	top: 57%;
+  	margin-left: -30px;
+  	margin-top: -50px;
+  	border-radius: 10px;
+  	font-family: sans-serif;
+  	font-size: 16px;
+}
+.butt{
+	position: absolute;
+  	left: 45%;
+  	top: 57%;
+  	margin-left: -15px;
+  	margin-top: -50px;
+  	border-radius: 10px;
+  	font-family: sans-serif;
+  	font-size: 16px;
+}
+.zag{
+	text-align: center;
+	margin-top: 175px;
+	font-size: 64px;
+}
+.pic{
+	text-align: right;
+	font-family: sans-serif;
+  	font-size: 16px;
+  	margin-right: 20px;
+}
