@@ -1,0 +1,5 @@
+#The Weeknd
+
+Abel Makkonen Tesfaye (born February 16, 1990), known professionally as the Weeknd, is a Canadian singer-songwriter and record producer. Known for his sonic versatility and dark lyricism, his music explores escapism, romance, and melancholia, and is often inspired by personal experiences. He has received numerous accolades, including four Grammy Awards, 19 Billboard Music Awards, 15 Juno Awards, six American Music Awards, two MTV Video Music Awards, and an Academy Award nomination.
+
+Among the world's best-selling music artists with over 75 million records sold, Tesfaye holds several streaming and Billboard chart records. He is the first artist to simultaneously debut on the top three on Hot R&B/Hip-Hop Songs, while "Blinding Lights" is the longest-charting song in Billboard history. Often considered as a prominent figure in contemporary popular music, Tesfaye was listed by Time magazine as one of the world's most influential people in 2020. An advocate for racial equality and food security, he was appointed a World Food Programme Goodwill Ambassador in 2021.

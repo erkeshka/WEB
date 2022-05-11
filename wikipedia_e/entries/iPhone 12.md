@@ -1,0 +1,3 @@
+#iPhone 12
+
+The iPhone 12 and iPhone 12 Mini (stylized and marketed as iPhone 12 mini) are a range of smartphones designed, developed, and marketed by Apple Inc. They are the fourteenth-generation, "affordable flagship" iPhones, succeeding the iPhone 11. They were unveiled at a virtually held Apple Special Event at Apple Park in Cupertino, California on October 13, 2020, alongside the "premium flagship" iPhone 12 Pro and iPhone 12 Pro Max. Pre-orders for the iPhone 12 started on October 16, 2020, and the phone became available in most countries on October 23, 2020. Pre-orders for the iPhone 12 Mini began on November 6, 2020, and the phone became available on November 13, 2020.
